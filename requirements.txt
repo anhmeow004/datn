@@ -1,0 +1,6 @@
+gymnasium[classic_control]
+pygame
+torch
+numpy
+matplotlib
+tensorboard
